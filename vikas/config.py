@@ -1,0 +1,9 @@
+bucket_name="elasticbeanstalk-ap-south-1-779156938541"
+version=1
+artifact_uri=bucket_uri+str(version)
+data_path="data/data.csv"
+processed_train="processed/train.csv"
+processed_test="processed/test.csv"
+url_path="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
+aws_access_key="AKIA3K2K7L4W7UMERY5D"
+aws_secret_access_key="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"
